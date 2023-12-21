@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Ruthie&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bevan&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active-scroll-spy {
+  border-bottom: 2px solid #eab308;
+}
+.active-scroll-spy-bg {
+  background-color: aliceblue;
+}
+html {
+  scroll-padding-top: 120px; /* height of your navbar */
+}
