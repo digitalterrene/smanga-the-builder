@@ -36,7 +36,7 @@ export default function Navbar() {
         <img src={logo.src} className="lg:w-16 w-6" />
         <p
           style={{ fontWeight: 5500 }}
-          className=" font-ruthie font lg:text-4xl  "
+          className=" font-ruthie font text-3xl lg:text-4xl  "
         >
           Smanga the Builder
         </p>
